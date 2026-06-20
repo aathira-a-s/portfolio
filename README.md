@@ -12,7 +12,7 @@ A premium, interactive, and responsive developer portfolio website showcasing my
 
 I am a Software Engineering Student specializing in **Artificial Intelligence and Machine Learning** at Jain University, passionate about exploring how intelligent systems and modern web architecture can solve real-world problems.
 
-Currently, I am working as an **AI/ML Research Intern** at the **Digital University Kerala (DUK / IIITM-K)**, Trivandrum, focusing on advanced intelligent systems and deep learning models.
+Currently, I am working as an **AI/ML Research Intern** at the **Digital University Kerala**, Trivandrum, focusing on advanced intelligent systems and deep learning models.
 
 ---
 
@@ -59,41 +59,6 @@ Currently, I am working as an **AI/ML Research Intern** at the **Digital Univers
 *   **Icons**: React Icons
 *   **Form Delivery**: Web3Forms integration for working contact forms
 *   **Performance**: Rollup code-splitting chunks config for ultra-fast page load
-
----
-
-## ⚙️ Local Development Setup
-
-To run this project locally, ensure you have [Node.js](https://nodejs.org/) installed:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/<your-username>/portfolio.git
-    cd portfolio
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Configure environment variables:**
-    Create a `.env` file in the root directory:
-    ```env
-    VITE_WEB3FORMS_ACCESS_KEY=your_web3forms_access_key
-    ```
-    *(Get a free key from [Web3Forms](https://web3forms.com))*
-
-4.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-    Access the website locally at [http://localhost:5173/](http://localhost:5173/).
-
-5.  **Build for production:**
-    ```bash
-    npm run build
-    ```
 
 ---
 
